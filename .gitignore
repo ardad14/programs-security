@@ -1,2 +1,5 @@
 */target/
 /.idea/
+*/.idea/
+*/Cargo.lock
+*/cmake-build-debug/
